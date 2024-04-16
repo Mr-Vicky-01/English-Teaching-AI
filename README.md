@@ -1,8 +1,8 @@
+![image](https://github.com/Mr-Vicky-01/English-Teaching-AI/assets/143078285/919f4eb3-3fa1-4601-9f76-687156151f66)
+
 # English Teaching AI
 
 English Teaching AI is an application that assists in translating Tamil or Tanglish queries into correct English sentences with proper grammar. It utilizes Google's GenerativeAI and Hugging Face's models to generate responses and even provides audio output for the translated sentences.
-
-![image](https://github.com/Mr-Vicky-01/English-Teaching-AI/assets/143078285/919f4eb3-3fa1-4601-9f76-687156151f66)
 
 ## How it Works
 

@@ -39,3 +39,7 @@ To set up the project locally, follow these steps:
 ```bash
 git clone https://github.com/Mr-Vicky-01/English-Teaching-AI.git
 ```
+
+## Demo
+
+https://github.com/Mr-Vicky-01/English-Teaching-AI/assets/143078285/191f4586-c092-4527-a45a-854fe262ae95
